@@ -34,5 +34,10 @@ The Library Management System is a Python-based application developed to support
 - Python
 - Text File Handling
 
+# Development Tools
+- Visual Studio Code
+
 # How to Run
-- libraryManagementSystem.py
+- Download this repository.
+- Open the project in Visual Studio Code.
+- Run the libraryManagementSystem.py
