@@ -13,7 +13,6 @@ The Library Management System is a Python-based application developed to support
 - Manage book records
 - Manage user accounts
 
-
 2. Library Staff
 - Staff login authentication
 - Search for books
@@ -21,13 +20,11 @@ The Library Management System is a Python-based application developed to support
 - Update book stock
 - Generate borrowing and return history reports
 
-
 3. Library Member
 - Member login authentication
 - Search for books
 - Borrow available books
 - View borrowing history
-
 
 4. Visitor
 - View book catalog
